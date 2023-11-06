@@ -8,7 +8,7 @@ Doge Unblocker is a very powerful, ultra-fast web proxy designed for customizati
 - Login system (for security)
 - Extremely clean UI
 - Fast proxy
-- Tons of Apps & Games
+- Tons of Apps & Games https://unusual-ray-bedclothes.cyclic.app
 ## Contributors:
 - Derpman
 ## Deployment
